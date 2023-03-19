@@ -11,5 +11,7 @@ public class Variable {
         String firstname = "Neeraj";
         String lastname = "Tiwari";
         System.out.println(firstname + " "+ lastname);
+
+
     }
 }
